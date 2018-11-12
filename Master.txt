@@ -1,3 +1,7 @@
 This is a change on the master branch
+<<<<<<<
 
 test Branch change 1
+=======
+second master change interlocked
+>>>>>>>
